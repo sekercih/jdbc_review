@@ -1,0 +1,11 @@
+1.junit projesi olustur
+2.pom.xml file a dependencyleri ekle
+3.java folder da gerekli folder lari olusturmak
+4.utilities folder olustur ve DBUtils classi olustur ve DBUTils classa olusturulan cutom methodlari yapistirin
+5.tests folderi olustur
+6. DBUtilsTest java sinifi olustur ve DBUtils deki hazir methodlari kullanarak islem yap
+7. Java Sinifi Olustur: ReadData
+8. Java sinifi olustur : UpdateData
+9. Java sinifi olusture : CreateData
+
+
